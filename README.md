@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 ¡soy Miguel753Dav9!
+
+Este es mi espacio de programación. 
+Actualmente estoy aprendiendo:
+- Java
+- Python
+
+
 
 <!--
 **Miguel753Dav9/Miguel753Dav9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
